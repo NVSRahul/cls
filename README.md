@@ -4,6 +4,8 @@
 
 A blazing fast, true clear command for macOS & Linux.
 
+![Demo of cls vs clear](demo.gif)
+
 **cls** is a tiny C utility that instantly wipes your terminal screen and scrollback buffer. Unlike the standard `clear` command (which often just scrolls text up), `cls` sends the precise ANSI escape codes to reset your view completely.
 
 ---
