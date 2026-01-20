@@ -68,3 +68,5 @@ sudo rm /usr/local/bin/cls
 ## 📄 License
 
 MIT License © 2026 NVSRahul
+
+For full license details, see: [@NVSRahul/cls/files/LICENSE](https://github.com/NVSRahul/cls/blob/main/LICENSE)
