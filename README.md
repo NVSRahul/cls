@@ -54,6 +54,8 @@ You can now clear your terminal completely using:
 cls
 ```
 
+> **Note:** On the first run, you may experience a slight delay depending on your terminal and system configuration. Subsequent executions will be instantaneous.
+
 ---
 
 ## 🗑️ Uninstalling
